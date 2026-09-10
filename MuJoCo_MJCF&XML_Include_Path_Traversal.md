@@ -11,8 +11,8 @@
 | **Fixed Version** | Pending (3.3.0+) |
 | **Vulnerability Type** | Path Traversal (CWE-22) |
 | **CVSS 3.1 Score** | 7.5 (High) - CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N |
-| **Discovery Date** | 2024-09-10 |
-| **Reported Date** | 2024-09-10 |
+| **Discovery Date** | 2026-09-10 |
+| **Reported Date** | 2026-09-10 |
 | **Public Disclosure** | TBD (coordinated with vendor) |
 
 ---
